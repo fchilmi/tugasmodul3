@@ -1,0 +1,4 @@
+include ':frame'
+include ':app'
+include ':tablelayout'
+rootProject.name = "coba2modul"
